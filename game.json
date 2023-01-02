@@ -3270,6 +3270,126 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Shaded Dark/b5a213be5a8986d8eb698b36528a4f99d29c66f37d79aa2124a1161988c6810d_Bottom arrow round button.png",
           "name": "Bottom arrow round button.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Point.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e75f02ffb5796a124fe04ea8594f63e031a42cfe6d46e697d8f05bdbb0673b7e_Point.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/e75f02ffb5796a124fe04ea8594f63e031a42cfe6d46e697d8f05bdbb0673b7e_Point.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Point.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Point.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Point-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Point-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Point-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Point-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Point-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Point-1-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionFog-Texture-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Smoke.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "04556cffa8fa75a9515382f3ad3d092361a7a339c612344926d372f906e3e7ed_Smoke.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/04556cffa8fa75a9515382f3ad3d092361a7a339c612344926d372f906e3e7ed_Smoke.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/04556cffa8fa75a9515382f3ad3d092361a7a339c612344926d372f906e3e7ed_Smoke-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\04556cffa8fa75a9515382f3ad3d092361a7a339c612344926d372f906e3e7ed_Smoke-1.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3305,7 +3425,7 @@
       "folded": true,
       "name": "soundVolume",
       "type": "number",
-      "value": 100
+      "value": 10
     },
     {
       "folded": true,
@@ -14440,8 +14560,8 @@
           "behaviors": [
             {
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "NormalPlatform",
               "canBeGrabbed": false,
               "yGrabOffset": 0
             }
@@ -14496,8 +14616,8 @@
           "behaviors": [
             {
               "name": "Platform",
-              "platformType": "Jumpthru",
               "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "Jumpthru",
               "canBeGrabbed": false,
               "yGrabOffset": 0
             }
@@ -32876,7 +32996,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.41304794181574284,
+        "zoomFactor": 0.36270817007582146,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -41694,8 +41814,8 @@
           "name": "player",
           "persistentUuid": "2dc0173d-b792-4b3f-b345-ee4a7fda26b3",
           "width": 70.94505310058594,
-          "x": 15,
-          "y": 51,
+          "x": 17,
+          "y": 100,
           "zOrder": 132,
           "numberProperties": [],
           "stringProperties": [],
@@ -61285,13 +61405,13 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 0,
               "leftEdgeAnchor": 2,
-              "name": "Anchor",
               "relativeToOriginalWindowSize": true,
               "rightEdgeAnchor": 0,
               "topEdgeAnchor": 0,
-              "type": "AnchorBehavior::AnchorBehavior",
               "useLegacyBottomAndRightAnchors": false
             }
           ],
@@ -61326,6 +61446,141 @@
               ]
             }
           ]
+        },
+        {
+          "additive": true,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 90,
+          "emitterForceMin": 50,
+          "flow": 100,
+          "maxParticleNb": 20,
+          "name": "transfrom2knight",
+          "particleAlpha1": 255,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 112,
+          "particleBlue2": 102,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 112,
+          "particleGreen2": 102,
+          "particleLifeTimeMax": 1.5,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 112,
+          "particleRed2": 102,
+          "particleSize1": 100,
+          "particleSize2": 0,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 70,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 30,
+          "textureParticleName": "assets\\64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1-1-1.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": true,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 90,
+          "emitterForceMin": 50,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "transfrom2slime",
+          "particleAlpha1": 255,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 175,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 81,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.5,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 0,
+          "particleRed2": 255,
+          "particleSize1": 100,
+          "particleSize2": 0,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 70,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 30,
+          "textureParticleName": "assets\\64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2-1-1.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": true,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 0,
+          "emitterForceMax": 90,
+          "emitterForceMin": 50,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "dashParticle",
+          "particleAlpha1": 100,
+          "particleAlpha2": 10,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 153,
+          "particleBlue2": 146,
+          "particleGravityX": 0,
+          "particleGravityY": 10,
+          "particleGreen1": 153,
+          "particleGreen2": 146,
+          "particleLifeTimeMax": 1,
+          "particleLifeTimeMin": 0.20000000298023224,
+          "particleRed1": 153,
+          "particleRed2": 146,
+          "particleSize1": 70,
+          "particleSize2": 0,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 10,
+          "rendererParam2": 5,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 30,
+          "textureParticleName": "assets\\04556cffa8fa75a9515382f3ad3d092361a7a339c612344926d372f906e3e7ed_Smoke-1.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -62795,7 +63050,6 @@
           "colorG": 155,
           "colorR": 155,
           "creationTime": 0,
-          "folded": true,
           "name": "Player Movement (for PC)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -63042,7 +63296,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Dash",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -63105,6 +63358,46 @@
                             ""
                           ]
                         }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::IsOnFloor"
+                              },
+                              "parameters": [
+                                "player",
+                                "PlatformerObject"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AdvancedJump::HorizontalDash::IsDashing"
+                              },
+                              "parameters": [
+                                "player",
+                                "HorizontalDash",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "dashParticle",
+                                "player.X()+20",
+                                "player.Y()+50",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
                       ]
                     },
                     {
@@ -63138,6 +63431,46 @@
                             "player",
                             "HorizontalDash",
                             ""
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::IsOnFloor"
+                              },
+                              "parameters": [
+                                "player",
+                                "PlatformerObject"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AdvancedJump::HorizontalDash::IsDashing"
+                              },
+                              "parameters": [
+                                "player",
+                                "HorizontalDash",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "dashParticle",
+                                "player.X()+20",
+                                "player.Y()+50",
+                                ""
+                              ]
+                            }
                           ]
                         }
                       ]
@@ -67185,7 +67518,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Enemy4",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -75435,6 +75767,18 @@
                 },
                 {
                   "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "transfrom2knight",
+                    "player.X()+30",
+                    "player.Y()+15",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Cache"
                   },
                   "parameters": [
@@ -77641,6 +77985,18 @@
             },
             {
               "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "transfrom2slime",
+                "player.X()+35",
+                "player.Y()+30",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Delete"
               },
               "parameters": [
@@ -77875,6 +78231,17 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "GUI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 128,
+          "ambientLightColorG": 128,
+          "ambientLightColorR": 128,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
           "visibility": true,
           "cameras": [],
           "effects": []
